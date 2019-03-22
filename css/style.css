@@ -115,12 +115,13 @@ a.boxclose{
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	text-align: center;
-	min-height:500px;
+	min-height:750px;
 }
 .imagem-perfil{
 	width: 300px;
 	z-index:1;
 	height:300px;
+	border-radius: 50%;
 }
 .banner-info{
 width:65%;
