@@ -13,6 +13,23 @@ html {
 body {
   margin: 0;
 }
+
+.around {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-around;
+}
+.contact-box {
+  height: 35px;
+  width: 35px;
+  margin: 5px;
+}
+.contact-icon {
+  height: 100%;
+  width: 100%;
+}
 article,
 aside,
 details,

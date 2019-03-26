@@ -2937,27 +2937,6 @@ border:none;
 	.about ul li {
 	  margin-right: 6px;
 	}
-	.social-icons a {
-		display: inline-block;
-		height: 3.5rem;
-		width: 3.5rem;
-		background-color: #495057;
-		color: #fff !important;
-		border-radius: 100%;
-		text-align: center;
-		font-size: 1.5rem;
-		line-height: 3.5rem;
-		margin-right: 1rem;
-	}
-	
-	.social-icons a:last-child {
-		margin-right: 0;
-	}
-	
-	.social-icons a:hover {
-		background-color: #BD5D38;
-	}
-	
 	.about ul li a.drib {
 	  background: url(../images/icons.png) no-repeat -207px 1px;
 	  width: 50px;
@@ -3462,27 +3441,6 @@ a.callbacks_nav.callbacks1_nav.prev {
 .col-md-7.contact-right {
   margin-top: 30px;
 }
-.social-icons a {
-  display: inline-block;
-  height: 3.5rem;
-  width: 3.5rem;
-  background-color: #495057;
-  color: #fff !important;
-  border-radius: 100%;
-  text-align: center;
-  font-size: 1.5rem;
-  line-height: 3.5rem;
-  margin-right: 1rem;
-}
-
-.social-icons a:last-child {
-  margin-right: 0;
-}
-
-.social-icons a:hover {
-  background-color: #BD5D38;
-}
-
 .about ul li a.drib {
 	  background: url(../images/icons.png) no-repeat -137px 1px;
 	  width: 33px;
